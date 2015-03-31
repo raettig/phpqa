@@ -7,7 +7,7 @@
 		"phploc/phploc": "*",		
 		"mayflower/php-codebrowser": "~1.1",
 		"squizlabs/php_codesniffer": "2.*",
-		"sebastian/dbunit": "*",
+		"phpunit/dbunit": "*",
 		"phpunit/phpunit-skeleton-generator": "*"
 	}
 }
